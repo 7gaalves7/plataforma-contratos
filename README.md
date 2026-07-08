@@ -1,8 +1,9 @@
  # Plataforma de Automação de Contratos
 
 
- ♠ Descrição do Projeto
-Este sistema foi desenvolvido para automatizar o fluxo completo de contratação, desde a coleta de informações iniciais até a geração do contrato final. O foco principal é a otimização de tempo e a redução de erros operacionais, tanto para o usuário quanto para a parte contratada.
+ ♠ # Descrição do Projeto
+ 
+**Este sistema foi desenvolvido para automatizar o fluxo completo de contratação, desde a coleta de informações iniciais até a geração do contrato final. O foco principal é a otimização de tempo e a redução de erros operacionais, tanto para o usuário quanto para a parte contratada.**
 
 O sistema processa dados dinâmicos, integra pré-requisitos informados no momento do preenchimento e gera documentos prontos para assinatura, garantindo agilidade e conformidade.
 -----------------------------------------------------------------------------------------------------------------------------------------------------
